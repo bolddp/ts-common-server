@@ -1,0 +1,17 @@
+{
+  "name": "ts-common-server",
+  "version": "1.0.0",
+  "description": "Common server components",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {},
+  "author": "Daniel Persson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4",
+    "ts-common": "github:bolddp/ts-common"
+  },
+  "devDependencies": {
+    "@types/express": "4.16.1"
+  }
+}
